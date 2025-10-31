@@ -4,7 +4,7 @@
 
 Hệ thống thông minh sử dụng Deep Learning để phát hiện và phân loại các bệnh phổ biến trên lá cây sầu riêng, giúp nông dân chẩn đoán sớm và điều trị hiệu quả.
 
-![Application Demo](image_durian/Application_1.jpg)
+<img src="image_durian/Application_1.jpg" alt="Application Demo" height="200">
 
 ## Mục tiêu dự án
 
@@ -418,7 +418,7 @@ Chúng tôi hoan nghênh mọi đóng góp! Xem [CONTRIBUTING.md](CONTRIBUTING.m
 1. **Cấp quyền**: Cho phép app truy cập camera và thư viện ảnh
 2. **Restart app**: Khởi động lại ứng dụng
 
-## 📋 Dependencies
+## Dependencies
 
 ### Backend
 - Flask
@@ -436,7 +436,7 @@ Chúng tôi hoan nghênh mọi đóng góp! Xem [CONTRIBUTING.md](CONTRIBUTING.m
 - Expo Image Picker
 - AsyncStorage
 
-## 🤖 Model Information
+## Model Information
 
 **DurNet Architecture:**
 - Backbone: MobileNetV3-Small
@@ -456,7 +456,7 @@ Chúng tôi hoan nghênh mọi đóng góp! Xem [CONTRIBUTING.md](CONTRIBUTING.m
 | 4 | Leaf_Colletotrichum | Cao | Bệnh thán thư - đốm đen trên lá và quả |
 | 5 | Leaf_Healthy | - | Lá khỏe mạnh, không có bệnh |
 
-## 🧪 Testing
+## Testing
 
 ### Test Backend API
 
@@ -485,13 +485,13 @@ curl http://localhost:5000/health
 curl -X POST -F "image=@test_image.jpg" http://localhost:5000/predict
 ```
 
-## 📞 Hỗ trợ
+## Hỗ trợ
 
 Nếu gặp vấn đề, vui lòng:
 1. Kiểm tra log trong terminal
 2. Xem phần Troubleshooting ở trên
 3. Đảm bảo tất cả dependencies đã được cài đặt
 
-## 📄 License
+## License
 
 MIT License - Xem file LICENSE để biết thêm chi tiết.# DurianGuard_Tool_Classification_and_Detection_Diseases
