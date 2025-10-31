@@ -48,7 +48,9 @@ DurNet là model tự thiết kế kết hợp giữa **MobileNetV3-Small** và 
 ![DurNet Architecture](image_durian/DurNet.png)
 
 ### Architecture Fusion
-![Architecture Fusion](image_durian/ArchFusion.png)
+<p align="center">
+  <img src="image_durian/ArchFusion.png" alt="Architecture Fusion" height="800">
+</p>
 
 **Đặc điểm của DurNet:**
 - **Backbone**: MobileNetV3-Small cho feature extraction hiệu quả
