@@ -57,3 +57,5 @@ Icon?
 # Others
 *.bak
 *.old
+backend/env/
+backend/durnet.pth
