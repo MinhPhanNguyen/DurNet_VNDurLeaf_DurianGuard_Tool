@@ -7,18 +7,52 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Dependency directories
+node_modules/
+venv/
+.env/
+.env.*     # ví dụ: .env.local, .env.development, v.v.
+
+# Build output
+dist/
+dist-ssr/
+build/
 *.local
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage and test
+coverage/
+.nyc_output/
+jest-cache/
+jest-html-reporters-*
+
+# Temporary files
+.tmp/
+temp/
+
+# OS system files
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Others
+*.bak
+*.old
