@@ -196,14 +196,11 @@ const API_BASE_URL = 'http://YOUR_COMPUTER_IP:5001';
 
 ## Giao diện ứng dụng
 
-### Màn hình chính
-![Application Screen 1](image_durian/Application_1.jpg)
-
-### Màn hình phân tích
-![Application Screen 2](image_durian/Application_2.jpg)
-
-### Màn hình cài đặt
-![Settings Screen](image_durian/Screenshot%202025-10-19%20at%2007.45.42.png)
+### Màn hình chính && Màn hình phân tích
+<p align="center">
+  <img src="image_durian/Application_1.jpg" alt="Application Screen 1" width="400">
+  <img src="image_durian/Application_2.jpg" alt="Application Screen 2" width="400">
+</p>
 
 ## Cấu hình và API
 
