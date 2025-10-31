@@ -4,7 +4,9 @@
 
 Hệ thống thông minh sử dụng Deep Learning để phát hiện và phân loại các bệnh phổ biến trên lá cây sầu riêng, giúp nông dân chẩn đoán sớm và điều trị hiệu quả.
 
-<img src="image_durian/Application_1.jpg" alt="Application Demo" height="400">
+<p align="center">
+  <img src="image_durian/Application_1.jpg" alt="Application Demo" height="400">
+</p>
 
 ## Mục tiêu dự án
 
